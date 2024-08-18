@@ -1,1 +1,3 @@
-
+- Download nvim (brew install nvim)
+- Download nerd-fonts (select jetbrains)
+- check mason.nvim for lsp (download language support for svelte, react, etc...)
