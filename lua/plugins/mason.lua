@@ -9,6 +9,7 @@ return {
     ensure_installed = {
       "stylua",
       "shfmt",
+      "typescript-language-server"
     },
   },
   ---@param opts MasonSettings | {ensure_installed: string[]}
